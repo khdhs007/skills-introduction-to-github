@@ -1,7 +1,0 @@
-- #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视高清",CCTV-1综合HD
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视高清",CCTV-2财经HD
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
-#EXTINF:-1  catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视高清",CCTV-3综艺HD
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
